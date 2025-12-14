@@ -1,39 +1,39 @@
-<h1 align="center">👋 Hey, I'm Luca </h1>
-<h3 align="center">Low-Level Developer • Security Researcher • Reverse Engineering</h3>
+<h1 align="center">👋 Luca</h1>
+<h3 align="center">Security Researcher • Reverse Engineering • Low-Level Dev</h3>
 
 <p align="center">
-  <i>Building tools, breaking things, understanding how everything works.</i>
+  <i>I break software to understand it.</i>
 </p>
 
 ---
 
-### 🧠 About Me
+### 🧠 Who am I
 
-- 🛠️ Low-level & systems programming  
-- 🔐 Security research & vulnerability analysis  
-- 🧬 Reverse engineering (IDA, binaries, protocols)  
-- 🎮 Minecraft mods & client-side tooling  
+- 🔐 Security & vulnerability research  
+- 🧬 Reverse engineering (binaries, protocols, internals)  
+- ⚙️ Low-level tooling & native code  
+- 🎮 Minecraft mods, clients & automation  
 - 🐧 Linux / Kali Linux daily user  
 
-> I like code that **doesn’t explain itself**.
+> Silence is a feature.
 
 ---
 
-### ⚙️ Tech Stack
+### ⚙️ Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,kotlin,python,lua,js,html" height="55"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,lua,js,html" height="55"/>
   <br><br>
   <img src="https://skillicons.dev/icons?i=linux,git,gradle,idea,vscode,visualstudio" height="55"/>
 </div>
 
 ---
 
-### 🧪 Areas I Work On
+### 🧪 Focus Areas
 
 ```text
 • Reverse Engineering
 • Exploit Research
-• Bug Bounty / Pentesting
-• Game Modding (Fabric / Clients)
-• Native & Internal Tools
+• Bug Bounty & Pentesting
+• Game Client Modding
+• Internal & Native Tools
