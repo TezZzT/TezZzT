@@ -1,39 +1,28 @@
-<h1 align="center">👋 Luca</h1>
-<h3 align="center">Security Researcher • Reverse Engineering • Low-Level Dev</h3>
+<h1 align="center">
+  <span style="color:#00ff66;">L U C A</span>
+</h1>
 
 <p align="center">
-  <i>I break software to understand it.</i>
+  <b><span style="color:#00c2ff;">Security Researcher</span> · 
+  <span style="color:#00ff66;">Reverse Engineering</span> · 
+  <span style="color:#00c2ff;">Low-Level Dev</span></b>
+</p>
+
+<p align="center">
+  <code style="color:#00ff66;">root@luca:~# whoami</code>
+</p>
+
+<p align="center">
+  <b style="color:#00ff66;">breaking software to understand it</b>
 </p>
 
 ---
 
-### 🧠 Who am I
-
-- 🔐 Security & vulnerability research  
-- 🧬 Reverse engineering (binaries, protocols, internals)  
-- ⚙️ Low-level tooling & native code  
-- 🎮 Minecraft mods, clients & automation  
-- 🐧 Linux / Kali Linux daily user  
-
-> Silence is a feature.
-
----
-
-### ⚙️ Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,lua,js,html" height="55"/>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=linux,git,gradle,idea,vscode,visualstudio" height="55"/>
-</div>
-
----
-
-### 🧪 Focus Areas
+## 🧠 SYSTEM PROFILE
 
 ```text
-• Reverse Engineering
-• Exploit Research
-• Bug Bounty & Pentesting
-• Game Client Modding
-• Internal & Native Tools
+[+] User        : luca
+[+] Access      : root
+[+] OS          : Linux / Kali Linux
+[+] Focus       : security · reverse · exploits
+[+] Status      : silent
